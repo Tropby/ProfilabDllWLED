@@ -1,0 +1,3 @@
+[submodule "dep/profilabDll"]
+	path = dep/profilabDll
+	url = https://github.com/Tropby/ProfiLabDll.git
