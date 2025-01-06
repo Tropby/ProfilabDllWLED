@@ -8,6 +8,10 @@ The first input is the IP-Address of the WLED device. The oder inputs can be use
 
 **ATTENTION:** This DLL is only working for ProfilLab Projects that are saved and reopend before using this DLL. If you only open Profilab and add this DLL you can not change any settings.
 
+## Disclaimer
+
+The Software _ProfiLab-Expert 4.0_ is published and sold by Abacom. I do not have anything to do with this company. Alle hier verwendeten Markennamen, Warenzeichen und Produktbilder sind Eigentum Ihrer rechtmäßigen Eigentümer und dienen hier nur der Beschreibung.
+
 ## Settings
 
 The settings are written to a temp file. Therefore the notepad.exe is opened. You just habe to change the value provided and close the notepad.exe.
